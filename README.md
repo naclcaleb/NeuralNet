@@ -1,2 +1,2 @@
 # NeuralNet
-A hand-coded neurla network library
+A hand-coded neural network library
